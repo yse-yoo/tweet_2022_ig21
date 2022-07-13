@@ -5,3 +5,15 @@
     height: 100%;
     min-height: 800px;
 }
+
+#side-menu .icon {
+    display: block;
+    float: left;
+    width: 30px;
+    height: 30px;
+    /* background-color: red; */
+}
+
+.icon-home {
+    background: url('../svg/home.svg') left no-repeat;
+}
