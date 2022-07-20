@@ -2,6 +2,10 @@ a {
     text-decoration: none;
 }
 
+main {
+    border-right: 1px solid #e0e0e0;
+}
+
 #side-menu {
     padding: 20px;
     border-right: 1px solid #e0e0e0;
