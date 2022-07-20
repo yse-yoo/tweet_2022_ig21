@@ -33,6 +33,10 @@ a {
     background: url('../svg/profile.svg') left no-repeat;
 }
 
+.tweet-menu .nav-link {
+    margin-right: 60px;
+    padding-left: 0;
+}
 
 .tweet-menu .icon {
     display: block;
