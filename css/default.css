@@ -44,6 +44,18 @@ a {
     background: url('../svg/bubble.svg') left no-repeat;
 }
 
+.icon-loop {
+    background: url('../svg/loop.svg') left no-repeat;
+}
+
+.icon-heart {
+    background: url('../svg/heart.svg') left no-repeat;
+}
+
+.icon-trash {
+    background: url('../svg/trash.svg') left no-repeat;
+}
+
 .tweet-img {
     padding: 0 5px;
     margin: 0;
